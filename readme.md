@@ -43,9 +43,13 @@ Currently only runs on Windows operating systems
 ## Credits
 
 Font used: https://www.dafont.com/04b-30.font
+
 Background music: https://opengameart.org/content/8-bit-music-pack-loopable
+
 Slurp sound: https://opengameart.org/content/8-wet-squish-slurp-impacts
+
 Based partially on a tutorial by: https://www.youtube.com/watch?v=QFvqStqPCRU
+
 Art made by me in Procreate on the iPad Pro!
 
 # Find this game on itch.io!
