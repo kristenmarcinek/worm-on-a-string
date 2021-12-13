@@ -37,6 +37,7 @@ Packages used include:
 - Sys
 - Random
 - Pickle
+- PyInstaller
 
 Currently only runs on Windows operating systems
 
@@ -54,4 +55,4 @@ Art made by me in Procreate on the iPad Pro!
 
 # Find this game on itch.io!
 
-[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://jessemillar.itch.io/darkest-moon)
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://kristoons.itch.io/worm-on-a-string)
