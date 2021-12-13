@@ -4,10 +4,6 @@ Worm on a String is a video game created using Python for the Rutgers ITI Object
 
 Main code ("main.py") is located under dist > main. Here is where the main game state, loop, and logic are written.
 
-## Table of Contents
-
-
-
 ## Download & Install
 
 1. Download .zip file
